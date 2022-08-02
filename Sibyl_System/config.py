@@ -10,5 +10,5 @@ BOT_TOKEN: str = "5493778479:AAGt0Hbyok-UOqqyn9wFa4ORfPU8PwcCnGw"
 MONGO_DB_URL: str = "mongodb+srv://ok:lol@cluster1.udhzs7r.mongodb.net/?retryWrites=true&w=majority"
 ADMIN_API_KEY: str = "xaxaxa"
 ADMIN_API_HOST: str = "http://owo.com"
-
+SIBYL: [str, int] = 5531584953
 
